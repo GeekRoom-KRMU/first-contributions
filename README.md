@@ -1,5 +1,5 @@
 # First Contributions
 
-Aditey's Profile:
-- [Linkedin Profile](https://www.linkedin.com/in/aditey-mehra/)
-- [Github Profile](https://github.com/incognito-unlimited)
+Alok's Profile:
+- [Linkedin Profile](https://www.linkedin.com/in/alokumarjaiswal/)
+- [Github Profile](https://github.com/alokumarjaiswal)
